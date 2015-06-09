@@ -1,0 +1,9 @@
+d:\documents\visual studio 2013\Projects\GJ\Sizer\Sizer\bin\Debug\Sizer.exe.config
+d:\documents\visual studio 2013\Projects\GJ\Sizer\Sizer\bin\Debug\Sizer.exe
+d:\documents\visual studio 2013\Projects\GJ\Sizer\Sizer\bin\Debug\Sizer.pdb
+d:\documents\visual studio 2013\Projects\GJ\Sizer\Sizer\obj\Debug\Resizer.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\GJ\Sizer\Sizer\obj\Debug\Resizer.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\GJ\Sizer\Sizer\obj\Debug\Sizer.exe
+d:\documents\visual studio 2013\Projects\GJ\Sizer\Sizer\obj\Debug\Sizer.pdb
+d:\documents\visual studio 2013\Projects\GJ\Sizer\Sizer\obj\Debug\Resizer.Resizer.resources
+d:\documents\visual studio 2013\Projects\GJ\Sizer\Sizer\obj\Debug\Resizer.Properties.Resources.resources
